@@ -1,0 +1,23 @@
+site_name: Mabusu GSM
+theme:
+  name: material
+  icon:
+    logo: material/satellite-uplink
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.top
+  language: en
+  palette:
+    primary: teal
+    scheme: slate
+    accent: deep purple
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/m4g3n74
+      name: M4G3N74
+
+copyright: Copyright &copy; 2023 <a href="http://github.com/m4g3n74">Mabusu GSM<a/>
